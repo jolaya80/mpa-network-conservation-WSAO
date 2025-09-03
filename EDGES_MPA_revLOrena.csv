@@ -1,0 +1,519 @@
+from,to,Red,type,Specie,weight
+7,4,Biologico,Stranding monitoring ,Ea,6
+3,5,Biologico,Behavioral studies ,Ea,9
+3,5,Biologico,Ecological studies,Ea,9
+3,5,Biologico,Morpho-physiological studies,Ea,9
+3,5,Biologico,Stranding monitoring ,Ea,9
+3,37,Biologico,Behavioral studies ,Ea,9
+3,37,Biologico,Ecological studies,Ea,9
+3,37,Biologico,Morpho-physiological studies,Ea,9
+3,37,Biologico,Stranding monitoring ,Ea,9
+3,38,Biologico,Behavioral studies ,Ea,9
+3,38,Biologico,Ecological studies,Ea,9
+3,38,Biologico,Morpho-physiological studies,Ea,9
+3,38,Biologico,Stranding monitoring ,Ea,9
+3,4,Biologico,Genetic studies ,Ea,9
+3,4,Biologico,Behavioral studies ,Ea,9
+3,4,Biologico,Ecological studies,Ea,9
+3,4,Biologico,Morpho-physiological studies,Ea,9
+3,4,Biologico,Stranding monitoring ,Ea,9
+3,4,Biologico,Analysis and classification of threats (Red List- according to IUCN),Ea,9
+5,3,Biologico,Behavioral studies ,Ea,9
+5,3,Biologico,Ecological studies,Ea,9
+5,3,Biologico,Morpho-physiological studies,Ea,9
+5,3,Biologico,Stranding monitoring ,Ea,9
+5,37,Biologico,Behavioral studies ,Ea,9
+5,37,Biologico,Ecological studies,Ea,9
+5,37,Biologico,Morpho-physiological studies,Ea,9
+5,37,Biologico,Stranding monitoring ,Ea,9
+5,38,Biologico,Behavioral studies ,Ea,9
+5,38,Biologico,Ecological studies,Ea,9
+5,38,Biologico,Morpho-physiological studies,Ea,9
+5,38,Biologico,Stranding monitoring ,Ea,9
+5,4,Biologico,Behavioral studies ,Ea,9
+5,4,Biologico,Ecological studies,Ea,9
+5,4,Biologico,Morpho-physiological studies,Ea,9
+5,4,Biologico,Stranding monitoring ,Ea,9
+5,4,Biologico,Analysis and classification of threats (Red List- according to IUCN),Ea,9
+5,4,Biologico,Genetic studies ,Ea,9
+22,23,Biologico,Stranding monitoring ,Ea,7
+22,63,Biologico,Stranding monitoring ,Ea,7
+23,63,Biologico,Stranding monitoring ,Ea,6
+23,22,Biologico,Stranding monitoring ,Ea,6
+18,66,Biologico,Stranding monitoring ,Ea,8
+21,66,Biologico,Genetic studies ,Ea,7
+21,66,Biologico,Behavioral studies ,Ea,7
+21,66,Biologico,Stranding monitoring ,Ea,7
+1,4,Gestao,Vehicle (land or water),Both,6
+1,4,Gestao,Volunteer or temporary programs,Both,6
+1,4,Gestao,Formal Training ,Both,4
+1,4,Gestao,Public Use Programs,Both,5
+1,4,Gestao,Participation in Management Councils,Both,3
+1,2,Gestao,WhatsApp Group,Both,6
+1,28,Gestao,WhatsApp Group,Both,6
+1,29,Gestao,WhatsApp Group,Both,6
+1,30,Gestao,WhatsApp Group,Both,6
+1,31,Gestao,WhatsApp Group,Both,6
+1,32,Gestao,WhatsApp Group,Both,6
+1,33,Gestao,WhatsApp Group,Both,6
+1,34,Gestao,WhatsApp Group,Both,6
+1,35,Gestao,WhatsApp Group,Both,6
+1,2,Gestao,Database Sharing (any type of data),Both,9
+1,28,Gestao,Database Sharing (any type of data),Both,9
+1,29,Gestao,Database Sharing (any type of data),Both,9
+1,30,Gestao,Database Sharing (any type of data),Both,9
+1,31,Gestao,Database Sharing (any type of data),Both,9
+1,32,Gestao,Database Sharing (any type of data),Both,9
+1,33,Gestao,Database Sharing (any type of data),Both,9
+1,34,Gestao,Database Sharing (any type of data),Both,9
+1,35,Gestao,Database Sharing (any type of data),Both,9
+2,1,Gestao,Team,Both,7
+2,1,Gestao,Equipments,Both,8
+2,1,Gestao,WhatsApp Group,Both,6
+2,1,Gestao,Other social medias groups,Both,6
+2,1,Gestao,Formal Training ,Both,7
+2,1,Gestao,Previous Professional Training (conducted before taking office),Both,7
+2,1,Gestao,Environmental Education Programs,Both,3
+2,1,Gestao,Research Program,Both,9
+2,1,Gestao,Joint Species Protection Program,Both,9
+2,1,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,1,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,1,Gestao,Participation in Forums or Working Groups,Both,8
+2,1,Gestao,NGO Support for Management (same NGO),Both,9
+2,1,Gestao,Database Sharing (any type of data),Both,9
+2,28,Gestao,WhatsApp Group,Both,6
+2,29,Gestao,WhatsApp Group,Both,6
+2,30,Gestao,WhatsApp Group,Both,6
+2,31,Gestao,WhatsApp Group,Both,6
+2,32,Gestao,WhatsApp Group,Both,6
+2,33,Gestao,WhatsApp Group,Both,6
+2,34,Gestao,WhatsApp Group,Both,6
+2,35,Gestao,WhatsApp Group,Both,6
+2,28,Gestao,Other social medias groups,Both,6
+2,29,Gestao,Other social medias groups,Both,6
+2,30,Gestao,Other social medias groups,Both,6
+2,31,Gestao,Other social medias groups,Both,6
+2,32,Gestao,Other social medias groups,Both,6
+2,33,Gestao,Other social medias groups,Both,6
+2,34,Gestao,Other social medias groups,Both,6
+2,35,Gestao,Other social medias groups,Both,6
+2,28,Gestao,Research Program,Both,9
+2,29,Gestao,Research Program,Both,9
+2,30,Gestao,Research Program,Both,9
+2,31,Gestao,Research Program,Both,9
+2,32,Gestao,Research Program,Both,9
+2,33,Gestao,Research Program,Both,9
+2,34,Gestao,Research Program,Both,9
+2,35,Gestao,Research Program,Both,9
+2,28,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,29,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,30,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,31,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,32,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,33,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,34,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,35,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,7
+2,28,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,29,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,30,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,31,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,32,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,33,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,34,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,35,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,7
+2,28,Gestao,Participation in Forums or Working Groups,Both,8
+2,29,Gestao,Participation in Forums or Working Groups,Both,8
+2,30,Gestao,Participation in Forums or Working Groups,Both,8
+2,31,Gestao,Participation in Forums or Working Groups,Both,8
+2,32,Gestao,Participation in Forums or Working Groups,Both,8
+2,33,Gestao,Participation in Forums or Working Groups,Both,8
+2,34,Gestao,Participation in Forums or Working Groups,Both,8
+2,35,Gestao,Participation in Forums or Working Groups,Both,8
+2,28,Gestao,Database Sharing (any type of data),Both,9
+2,29,Gestao,Database Sharing (any type of data),Both,9
+2,30,Gestao,Database Sharing (any type of data),Both,9
+2,31,Gestao,Database Sharing (any type of data),Both,9
+2,32,Gestao,Database Sharing (any type of data),Both,9
+2,33,Gestao,Database Sharing (any type of data),Both,9
+2,34,Gestao,Database Sharing (any type of data),Both,9
+2,35,Gestao,Database Sharing (any type of data),Both,9
+2,31,Gestao,Environmental Education Programs,Both,3
+2,36,Gestao,Public Use Programs,Both,3
+3,5,Gestao,Vehicle (land or water),Both,9
+3,38,Gestao,Vehicle (land or water),Both,9
+3,37,Gestao,Vehicle (land or water),Both,9
+3,4,Gestao,Vehicle (land or water),Both,8
+3,5,Gestao,Volunteer or temporary programs,Both,9
+3,38,Gestao,Volunteer or temporary programs,Both,9
+3,37,Gestao,Volunteer or temporary programs,Both,9
+3,4,Gestao,Volunteer or temporary programs,Both,9
+3,5,Gestao,Equipments,Both,9
+3,38,Gestao,Equipments,Both,9
+3,37,Gestao,Equipments,Both,9
+3,5,Gestao,WhatsApp Group,Both,3
+3,38,Gestao,WhatsApp Group,Both,3
+3,37,Gestao,WhatsApp Group,Both,3
+3,5,Gestao,Environmental Education Programs,Both,9
+3,38,Gestao,Environmental Education Programs,Both,9
+3,37,Gestao,Environmental Education Programs,Both,9
+3,4,Gestao,Environmental Education Programs,Both,9
+3,5,Gestao,Research Program,Both,9
+3,38,Gestao,Research Program,Both,9
+3,37,Gestao,Research Program,Both,9
+3,5,Gestao,Joint Species Protection Program,Both,9
+3,38,Gestao,Joint Species Protection Program,Both,9
+3,37,Gestao,Joint Species Protection Program,Both,9
+3,4,Gestao,Joint Species Protection Program,Both,9
+3,5,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+3,38,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+3,37,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+3,4,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+3,4,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,3
+3,5,Gestao,Joint Inspection Program,Both,9
+3,38,Gestao,Joint Inspection Program,Both,9
+3,37,Gestao,Joint Inspection Program,Both,9
+3,5,Gestao,Database Sharing (any type of data),Both,9
+3,38,Gestao,Database Sharing (any type of data),Both,9
+3,37,Gestao,Database Sharing (any type of data),Both,9
+5,3,Gestao,Vehicle (land or water),Both,9
+5,38,Gestao,Vehicle (land or water),Both,9
+5,37,Gestao,Vehicle (land or water),Both,9
+5,4,Gestao,Vehicle (land or water),Both,8
+5,3,Gestao,Volunteer or temporary programs,Both,9
+5,38,Gestao,Volunteer or temporary programs,Both,9
+5,37,Gestao,Volunteer or temporary programs,Both,9
+5,4,Gestao,Volunteer or temporary programs,Both,9
+5,3,Gestao,Equipments,Both,9
+5,38,Gestao,Equipments,Both,9
+5,37,Gestao,Equipments,Both,9
+5,3,Gestao,WhatsApp Group,Both,3
+5,38,Gestao,WhatsApp Group,Both,3
+5,37,Gestao,WhatsApp Group,Both,3
+5,3,Gestao,Environmental Education Programs,Both,9
+5,38,Gestao,Environmental Education Programs,Both,9
+5,37,Gestao,Environmental Education Programs,Both,9
+5,4,Gestao,Environmental Education Programs,Both,9
+5,3,Gestao,Research Program,Both,9
+5,38,Gestao,Research Program,Both,9
+5,37,Gestao,Research Program,Both,9
+5,3,Gestao,Joint Species Protection Program,Both,9
+5,38,Gestao,Joint Species Protection Program,Both,9
+5,37,Gestao,Joint Species Protection Program,Both,9
+5,4,Gestao,Joint Species Protection Program,Both,9
+5,3,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+5,38,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+5,37,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+5,4,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,3
+5,4,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,3
+5,3,Gestao,Joint Inspection Program,Both,9
+5,38,Gestao,Joint Inspection Program,Both,9
+5,37,Gestao,Joint Inspection Program,Both,9
+5,3,Gestao,Database Sharing (any type of data),Both,9
+5,38,Gestao,Database Sharing (any type of data),Both,9
+5,37,Gestao,Database Sharing (any type of data),Both,9
+4,7,Gestao,WhatsApp Group,Both,5
+4,3,Gestao,WhatsApp Group,Both,5
+4,37,Gestao,WhatsApp Group,Both,5
+4,6,Gestao,WhatsApp Group,Both,5
+4,38,Gestao,WhatsApp Group,Both,5
+4,5,Gestao,WhatsApp Group,Both,5
+4,39,Gestao,WhatsApp Group,Both,5
+4,7,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,7
+4,7,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,8
+4,6,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,8
+4,40,Gestao,Participation in Management Councils,Both,5
+4,7,Gestao,Participation in Management Councils,Both,5
+4,7,Gestao,Participation in Forums or Working Groups,Both,6
+4,6,Gestao,Participation in Forums or Working Groups,Both,6
+4,37,Gestao,Participation in Forums or Working Groups,Both,6
+4,7,Gestao,NGO Support for Management (same NGO),Both,5
+4,6,Gestao,NGO Support for Management (same NGO),Both,5
+6,4,Gestao,Research Program,Both,9
+6,4,Gestao,Joint Species Protection Program,Both,9
+6,41,Gestao,NGO Support for Management (same NGO),Both,4
+6,42,Gestao,NGO Support for Management (same NGO),Both,4
+6,43,Gestao,NGO Support for Management (same NGO),Both,4
+6,44,Gestao,NGO Support for Management (same NGO),Both,4
+6,45,Gestao,NGO Support for Management (same NGO),Both,9
+7,46,Gestao,Vehicle (land or water),Both,5
+7,6,Gestao,Vehicle (land or water),Both,5
+7,4,Gestao,Equipments,Both,6
+7,47,Gestao,Equipments,Both,4
+7,6,Gestao,WhatsApp Group,Both,6
+7,4,Gestao,WhatsApp Group,Both,6
+7,48,Gestao,Public Use Programs,Both,5
+7,40,Gestao,WhatsApp Group,Both,6
+7,49,Gestao,WhatsApp Group,Both,6
+7,50,Gestao,WhatsApp Group,Both,6
+7,51,Gestao,WhatsApp Group,Both,6
+7,52,Gestao,WhatsApp Group,Both,6
+7,53,Gestao,WhatsApp Group,Both,6
+7,54,Gestao,WhatsApp Group,Both,6
+7,55,Gestao,WhatsApp Group,Both,6
+7,56,Gestao,WhatsApp Group,Both,6
+7,57,Gestao,WhatsApp Group,Both,6
+7,58,Gestao,WhatsApp Group,Both,6
+7,59,Gestao,WhatsApp Group,Both,6
+7,60,Gestao,WhatsApp Group,Both,6
+7,4,Gestao,Formal Training ,Both,6
+9,11,Gestao,Vehicle (land or water),Both,8
+9,11,Gestao,NGO Support for Management (same NGO),Both,5
+9,11,Gestao,Database Sharing (any type of data),Both,5
+10,9,Gestao,Team,Both,5
+10,12,Gestao,NGO Support for Management (same NGO),Both,6
+10,9,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,9
+10,12,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,9
+10,11,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,9
+10,62,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,9
+10,61,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,9
+11,9,Gestao,Vehicle (land or water),Both,6
+11,9,Gestao,Team,Both,4
+12,61,Gestao,NGO Support for Management (same NGO),Both,5
+12,9,Gestao,NGO Support for Management (same NGO),Both,5
+13,66,Gestao,Vehicle (land or water),Both,7
+13,66,Gestao,Team,Both,7
+15,16,Gestao,Vehicle (land or water),Both,9
+15,16,Gestao,Team,Both,6
+15,16,Gestao,Formal Training ,Both,6
+15,16,Gestao,Database Sharing (any type of data),Both,7
+15,64,Gestao,Database Sharing (any type of data),Both,7
+15,13,Gestao,Database Sharing (any type of data),Both,7
+15,18,Gestao,Database Sharing (any type of data),Both,7
+15,14,Gestao,Database Sharing (any type of data),Both,7
+15,17,Gestao,Database Sharing (any type of data),Both,7
+15,26,Gestao,Database Sharing (any type of data),Both,7
+15,69,Gestao,Database Sharing (any type of data),Both,7
+15,27,Gestao,Database Sharing (any type of data),Both,7
+15,71,Gestao,Database Sharing (any type of data),Both,7
+15,72,Gestao,Database Sharing (any type of data),Both,7
+15,16,Gestao,WhatsApp Group,Both,7
+15,64,Gestao,WhatsApp Group,Both,7
+15,13,Gestao,WhatsApp Group,Both,7
+15,18,Gestao,WhatsApp Group,Both,7
+15,14,Gestao,WhatsApp Group,Both,7
+15,17,Gestao,WhatsApp Group,Both,7
+15,26,Gestao,WhatsApp Group,Both,7
+15,69,Gestao,WhatsApp Group,Both,7
+15,27,Gestao,WhatsApp Group,Both,7
+15,71,Gestao,WhatsApp Group,Both,7
+15,72,Gestao,WhatsApp Group,Both,7
+16,18,Gestao,Formal Training ,Both,6
+16,18,Gestao,Database Sharing (any type of data),Both,9
+16,64,Gestao,Database Sharing (any type of data),Both,9
+16,13,Gestao,Database Sharing (any type of data),Both,9
+16,15,Gestao,Database Sharing (any type of data),Both,9
+16,14,Gestao,Database Sharing (any type of data),Both,9
+16,17,Gestao,Database Sharing (any type of data),Both,9
+16,26,Gestao,Database Sharing (any type of data),Both,9
+16,69,Gestao,Database Sharing (any type of data),Both,9
+16,27,Gestao,Database Sharing (any type of data),Both,9
+16,71,Gestao,Database Sharing (any type of data),Both,9
+16,72,Gestao,Database Sharing (any type of data),Both,9
+17,27,Gestao,Team,Both,7
+17,27,Gestao,Equipments,Both,8
+17,27,Gestao,Formal Training ,Both,7
+17,16,Gestao,Formal Training ,Both,5
+17,18,Gestao,Formal Training ,Both,5
+17,18,Gestao,Previous Professional Training (conducted before taking office),Both,5
+17,27,Gestao,Participation in Management Councils,Both,7
+17,16,Gestao,Database Sharing (any type of data),Both,7
+17,64,Gestao,Database Sharing (any type of data),Both,7
+17,13,Gestao,Database Sharing (any type of data),Both,7
+17,18,Gestao,Database Sharing (any type of data),Both,7
+17,14,Gestao,Database Sharing (any type of data),Both,7
+17,15,Gestao,Database Sharing (any type of data),Both,7
+17,26,Gestao,Database Sharing (any type of data),Both,7
+17,69,Gestao,Database Sharing (any type of data),Both,7
+17,27,Gestao,Database Sharing (any type of data),Both,7
+17,71,Gestao,Database Sharing (any type of data),Both,7
+17,72,Gestao,Database Sharing (any type of data),Both,7
+17,16,Gestao,WhatsApp Group,Both,7
+17,64,Gestao,WhatsApp Group,Both,7
+17,13,Gestao,WhatsApp Group,Both,7
+17,18,Gestao,WhatsApp Group,Both,7
+17,14,Gestao,WhatsApp Group,Both,7
+17,15,Gestao,WhatsApp Group,Both,7
+17,26,Gestao,WhatsApp Group,Both,7
+17,69,Gestao,WhatsApp Group,Both,7
+17,27,Gestao,WhatsApp Group,Both,7
+17,71,Gestao,WhatsApp Group,Both,7
+17,72,Gestao,WhatsApp Group,Both,7
+18,13,Gestao,Vehicle (land or water),Both,7
+18,13,Gestao,Team,Both,7
+18,16,Gestao,Equipments,Both,7
+18,13,Gestao,Research Program,Both,7
+18,16,Gestao,WhatsApp Group,Both,7
+18,64,Gestao,WhatsApp Group,Both,7
+18,13,Gestao,WhatsApp Group,Both,7
+18,17,Gestao,WhatsApp Group,Both,7
+18,14,Gestao,WhatsApp Group,Both,7
+18,15,Gestao,WhatsApp Group,Both,7
+18,26,Gestao,WhatsApp Group,Both,7
+18,69,Gestao,WhatsApp Group,Both,7
+18,27,Gestao,WhatsApp Group,Both,7
+18,71,Gestao,WhatsApp Group,Both,7
+18,72,Gestao,WhatsApp Group,Both,7
+18,16,Gestao,Database Sharing (any type of data),Both,7
+18,64,Gestao,Database Sharing (any type of data),Both,7
+18,13,Gestao,Database Sharing (any type of data),Both,7
+18,17,Gestao,Database Sharing (any type of data),Both,7
+18,14,Gestao,Database Sharing (any type of data),Both,7
+18,15,Gestao,Database Sharing (any type of data),Both,7
+18,26,Gestao,Database Sharing (any type of data),Both,7
+18,69,Gestao,Database Sharing (any type of data),Both,7
+18,27,Gestao,Database Sharing (any type of data),Both,7
+18,71,Gestao,Database Sharing (any type of data),Both,7
+18,72,Gestao,Database Sharing (any type of data),Both,7
+19,67,Gestao,Vehicle (land or water),Both,5
+19,67,Gestao,Team,Both,5
+19,67,Gestao,Equipments,Both,5
+19,67,Gestao,Other social medias groups,Both,5
+19,67,Gestao,Formal Training ,Both,8
+19,67,Gestao,Previous Professional Training (conducted before taking office),Both,8
+19,67,Gestao,Environmental Education Programs,Both,5
+19,67,Gestao,Research Program,Both,6
+19,67,Gestao,Participation in Conflict Resolution,Both,5
+20,67,Gestao,Vehicle (land or water),Both,6
+20,67,Gestao,Team,Both,6
+20,67,Gestao,Volunteer or temporary programs,Both,5
+20,67,Gestao,Equipments,Both,5
+20,67,Gestao,Other social medias groups,Both,8
+20,67,Gestao,Formal Training ,Both,8
+20,67,Gestao,Previous Professional Training (conducted before taking office),Both,8
+20,67,Gestao,Environmental Education Programs,Both,5
+20,67,Gestao,Research Program,Both,7
+20,67,Gestao,Participation in Conflict Resolution,Both,5
+21,66,Gestao,Vehicle (land or water),Both,6
+21,22,Gestao,Vehicle (land or water),Both,7
+21,66,Gestao,Team,Both,6
+21,22,Gestao,Team,Both,7
+21,18,Gestao,Previous Professional Training (conducted before taking office),Both,8
+21,66,Gestao,Research Program,Both,7
+21,66,Gestao,Participation in Management Councils,Both,7
+21,66,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,9
+21,66,Gestao,Participation in Conflict Resolution,Both,7
+21,18,Gestao,Database Sharing (any type of data),Both,9
+21,14,Gestao,Formal Training ,Both,8
+21,15,Gestao,Formal Training ,Both,8
+21,16,Gestao,Formal Training ,Both,8
+21,17,Gestao,Formal Training ,Both,8
+21,18,Gestao,Formal Training ,Both,8
+21,27,Gestao,Formal Training ,Both,8
+21,64,Gestao,Formal Training ,Both,8
+21,66,Gestao,Formal Training ,Both,8
+21,22,Gestao,Formal Training ,Both,8
+22,23,Gestao,Vehicle (land or water),Both,6
+22,23,Gestao,Team,Both,8
+22,23,Gestao,Other social medias groups,Both,8
+22,23,Gestao,Formal Training ,Both,8
+22,23,Gestao,WhatsApp Group,Both,9
+22,63,Gestao,Other social medias groups,Both,8
+22,63,Gestao,Formal Training ,Both,8
+22,63,Gestao,WhatsApp Group,Both,9
+22,23,Gestao,Joint Species Protection Program,Both,7
+22,63,Gestao,Joint Species Protection Program,Both,7
+22,23,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,9
+22,63,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,9
+22,23,Gestao,Participation in Management Councils,Both,7
+22,63,Gestao,Participation in Management Councils,Both,7
+22,23,Gestao,Participation in Forums or Working Groups,Both,9
+22,63,Gestao,Participation in Forums or Working Groups,Both,6
+22,23,Gestao,Database Sharing (any type of data),Both,9
+22,63,Gestao,Database Sharing (any type of data),Both,5
+22,23,Gestao,Participation in Conflict Resolution,Both,8
+23,22,Gestao,Team,Both,8
+23,22,Gestao,Volunteer or temporary programs,Both,8
+23,22,Gestao,Other social medias groups,Both,9
+23,63,Gestao,Other social medias groups,Both,9
+23,22,Gestao,WhatsApp Group,Both,6
+23,63,Gestao,WhatsApp Group,Both,6
+23,64,Gestao,WhatsApp Group,Both,6
+23,65,Gestao,WhatsApp Group,Both,6
+23,22,Gestao,Research Program,Both,8
+23,22,Gestao,Joint Species Protection Program,Both,8
+23,22,Gestao,Participation in Forums or Working Groups,Both,8
+23,63,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,5
+23,63,Gestao,Joint Inspection Program,Both,8
+23,22,Gestao,Joint Inspection Program,Both,9
+23,63,Gestao,Database Sharing (any type of data),Both,7
+23,22,Gestao,Database Sharing (any type of data),Both,7
+23,22,Gestao,Participation in Conflict Resolution,Both,8
+24,68,Gestao,Vehicle (land or water),Both,6
+24,68,Gestao,Team,Both,7
+24,68,Gestao,Equipments,Both,6
+24,68,Gestao,Other social medias groups,Both,8
+24,68,Gestao,WhatsApp Group,Both,9
+24,68,Gestao,Formal Training ,Both,4
+24,68,Gestao,Previous Professional Training (conducted before taking office),Both,9
+24,68,Gestao,Environmental Education Programs,Both,5
+24,68,Gestao,Research Program,Both,4
+24,68,Gestao,Joint Species Protection Program,Both,7
+24,68,Gestao,Joint Publications (brochures- booklets- books- official reports- investigations- manuals- others),Both,8
+24,68,Gestao,Collective External Funding Sources (international fund- NGO- ),Both,6
+24,68,Gestao,Financial Resources per Specific Legislation (entrance fees- payment for environmental services- others),Both,3
+24,68,Gestao,Participation in Management Councils,Both,5
+24,68,Gestao,Participation in Forums or Working Groups,Both,7
+24,68,Gestao,NGO Support for Management (same NGO),Both,6
+24,68,Gestao,Fisheries Legislation (if there is legislation regulating fishing jointly with other MPAs),Both,3
+24,68,Gestao,Joint Inspection Program,Both,3
+24,68,Gestao,Database Sharing (any type of data),Both,9
+24,68,Gestao,Participation in Conflict Resolution,Both,7
+3,5,Biologico,Ecological studies,Of,9
+3,5,Biologico,Morpho-physiological studies,Of,9
+3,5,Biologico,Stranding monitoring ,Of,9
+3,37,Biologico,Ecological studies,Of,9
+3,37,Biologico,Morpho-physiological studies,Of,9
+3,37,Biologico,Stranding monitoring ,Of,9
+3,38,Biologico,Ecological studies,Of,9
+3,38,Biologico,Morpho-physiological studies,Of,9
+3,38,Biologico,Stranding monitoring ,Of,9
+3,4,Biologico,Ecological studies,Of,9
+3,4,Biologico,Morpho-physiological studies,Of,9
+3,4,Biologico,Stranding monitoring ,Of,9
+5,3,Biologico,Ecological studies,Of,9
+5,3,Biologico,Morpho-physiological studies,Of,9
+5,3,Biologico,Stranding monitoring ,Of,9
+5,37,Biologico,Ecological studies,Of,9
+5,37,Biologico,Morpho-physiological studies,Of,9
+5,37,Biologico,Stranding monitoring ,Of,9
+5,38,Biologico,Ecological studies,Of,9
+5,38,Biologico,Morpho-physiological studies,Of,9
+5,38,Biologico,Stranding monitoring ,Of,9
+5,4,Biologico,Ecological studies,Of,9
+5,4,Biologico,Morpho-physiological studies,Of,9
+5,4,Biologico,Stranding monitoring ,Of,9
+10,9,Biologico,Ecological studies,Of,9
+10,11,Biologico,Ecological studies,Of,9
+10,12,Biologico,Ecological studies,Of,9
+10,61,Biologico,Ecological studies,Of,9
+10,62,Biologico,Ecological studies,Of,9
+10,9,Biologico,Stranding monitoring ,Of,7
+10,11,Biologico,Stranding monitoring ,Of,7
+10,12,Biologico,Stranding monitoring ,Of,7
+10,61,Biologico,Stranding monitoring ,Of,7
+10,62,Biologico,Stranding monitoring ,Of,7
+22,23,Biologico,Ecological studies,Of,9
+22,63,Biologico,Ecological studies,Of,9
+22,64,Biologico,Ecological studies,Of,9
+22,65,Biologico,Ecological studies,Of,9
+23,22,Biologico,Genetic studies ,Of,6
+23,22,Biologico,Studies on conflicts with human activities,Of,7
+14,15,Biologico,Genetic studies ,Of,8
+14,16,Biologico,Genetic studies ,Of,8
+15,16,Biologico,Genetic studies ,Of,9
+15,14,Biologico,Genetic studies ,Of,9
+16,15,Biologico,Genetic studies ,Of,8
+16,14,Biologico,Genetic studies ,Of,8
+18,66,Biologico,Behavioral studies ,Of,7
+18,66,Biologico,Ecological studies,Of,7
+18,66,Biologico,Morpho-physiological studies,Of,7
+18,66,Biologico,Stranding monitoring ,Of,8
+21,66,Biologico,Genetic studies ,Of,7
+21,66,Biologico,Behavioral studies ,Of,7
+21,66,Biologico,Stranding monitoring ,Of,7
+19,14,Biologico,Genetic studies ,Of,5
+19,67,Biologico,Ecological studies,Of,5
+19,70,Biologico,Ecological studies,Of,6
+20,14,Biologico,Genetic studies ,Of,5
+20,67,Biologico,Ecological studies,Of,5
+20,70,Biologico,Ecological studies,Of,6
